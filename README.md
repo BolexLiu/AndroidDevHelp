@@ -1,16 +1,24 @@
 # AndroidDevHelp
-该项目用来解决android编程中疑难杂症的辅助仓库。灾难性的bug问题请发Issues！
+该工程用来解决android同学编程中疑难杂症的辅助仓库。灾难性的bug问题请发Issues！
 
 在得到帮助的同时，希望大家能给予其他人帮助。相信在帮助他人的过程中也能同时收获成长。
 
+*注：请勿滥用，遵循理性标准的格式来提问,模版在下方。*
+
 # 如何求助
+
 - 点击Issues 创建它。然后将你的问题描述仔细，若有错误代码务必贴上来。
 
 # 问题模版：
 
 ## 我做了什么？
 
-我在插件模块中使用了compile 'XXXX'. 我尝试了./gradlew clean 方法，但结果是
+1.我在插件模块中使用了compile 'XXXX'. 我尝试了./gradlew clean 方法。
+2.修改了配置文件。
+3.换了不同的Gradle版本。
+
+
+## 但结果是
 
 ```
   Execution failed for task ':lib.util:processReleaseResources'.
@@ -29,6 +37,8 @@
  平台：Mac/windows/linux
  
  ide：androidStudio 2.3
+ 
+ Gradle： 1.41
  
  ## 我的运行时环境
  
