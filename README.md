@@ -17,15 +17,23 @@
 ```
 
 ## 我期望的结果是什么？
+
   集成后能正常编译通过
  
 ## 我的运行环境
+
  编译sdk：25.0
+ 
  java版本：1.7
+ 
  平台：Mac/windows/linux
+ 
  ide：androidStudio 2.3
  
  ## 我的运行时环境
+ 
  机型：华为/MI/魅族/Vivo/三星/
+ 
  android版本： 5.0原生系统/6.0flyme定制系统
+ 
  ABI : armeabi-v7a/x86/armeabi
